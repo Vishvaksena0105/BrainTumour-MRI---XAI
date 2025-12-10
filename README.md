@@ -6,7 +6,7 @@ Deep learning system for classifying MRI brain scans into four tumor types, enha
 
 4-class MRI tumor classification (Glioma, Meningioma, Pituitary, No Tumor)
 
-Custom CNN built with TensorFlow/Keras
+Custom CNN built using TensorFlow/Keras
 
 Achieved 77.6% test accuracy
 
@@ -25,3 +25,4 @@ results/gradcam_examples/
 🧰 Tech Stack
 
 Python, TensorFlow, Keras, NumPy, OpenCV, Matplotlib, Scikit-Learn
+
